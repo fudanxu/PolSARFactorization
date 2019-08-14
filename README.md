@@ -6,6 +6,7 @@ If you use this code, please refer to below papers:
 [1]  Feng Xu, Qian Song, and Ya-Qiu Jin,  "Polarimetric SAR Image Factorization",  IEEE Transactions on Geoscience and Remote Sensing, Vol. 55, No. 9, pp. 5026-5041, 2017.  
 ### NMF optimization using graph regularized non-negative matrix factorization with divergence formulation locality preserving.
 [1]  Deng Cai, Xiaofei He, Xuanhui Wang, Hujun Bao, and Jiawei Han. "Locality Preserving Nonnegative Matrix Factorization", Proc. 2009 Int. Joint Conf. on Arti_cial Intelligence (IJCAI-09), Pasadena, CA, July 2009. 
+
 [2]  Deng Cai, Xiaofei He, Jiawei Han, Thomas Huang. "Graph Regularized Non-negative Matrix Factorization for Data Representation", IEEE Transactions on Pattern Analysis and Machine Intelligence, , Vol. 33, No. 8, pp. 1548-1560, 2011.  
 
 ## Requirements
