@@ -19,4 +19,4 @@ https://uavsar.jpl.nasa.gov.
 - C_TestData1.mat  The covariance matrix of a UAVSAR PolSAR image with size 900*900.
 
 ## Acknowledgement 
-Non-negative matrix factorization is implemented using the graph-nmf algorithm by Deng Cai [code from: http://www.cad.zju.edu.cn/home/dengcai/Data/data.html].
+Non-negative matrix factorization is implemented using the graph-nmf algorithm by Deng Cai [code from: https://github.com/ZJULearning/MatlabFunc/tree/master/MatrixFactorization].
